@@ -1,0 +1,134 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="antojitoos.com" resolutions="1x" timestamp="1671513412669">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="3792058335" ref="carta:ubicacion:index:contacto"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="128944258" ref="carta:ubicacion:index:contacto"/>
+    <file name="carta.css" crc="198442474" ref="carta"/>
+    <file name="nomq_carta.css" crc="4122575994" ref="carta"/>
+    <file name="ubicacion.css" crc="3772634757" ref="ubicacion"/>
+    <file name="nomq_ubicacion.css" crc="432588969" ref="ubicacion"/>
+    <file name="index.css" crc="4265340534" ref="index"/>
+    <file name="nomq_index.css" crc="3919339968" ref="index"/>
+    <file name="contacto.css" crc="4205666782" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="86005778" ref="contacto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:carta:ubicacion:contacto"/>
+    <file name="museutils.js" crc="3939489907" ref="index:carta:ubicacion:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:carta:ubicacion:contacto"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:carta:ubicacion:contacto"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:carta:ubicacion:contacto"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:carta:ubicacion:contacto"/>
+    <file name="webpro.js" crc="3856315280" ref="index:carta:ubicacion:contacto"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:carta:ubicacion:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:carta:ubicacion:contacto"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:carta:ubicacion:contacto"/>
+    <file name="require.js" crc="4177726516" ref="index:carta:ubicacion:contacto"/>
+    <file name="form_check.php" crc="4108222811" ref="contacto"/>
+    <file name="form_throttle.php" crc="503802655" ref="contacto"/>
+    <file name="form_process.php" crc="260214869" ref="contacto"/>
+    <file name="form-u2019.php" crc="337443058" ref="contacto"/>
+    <file name="form-u2105.php" crc="4241992074" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="41389485" ref="index"/>
+    <file name="antojitos sin.png" crc="4006067144" seo="true" ref="index:carta:ubicacion:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="carta" alt=""/>
+      <caption webpage="carta" alt=""/>
+      <caption webpage="carta" alt=""/>
+      <caption webpage="carta" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="inicio-crop-u1212.jpg" crc="503205113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:carta:ubicacion:contacto"/>
+    <file name="pastel rosa bígaro y blanco salones reapertura comercial horizontal póster (6)-crop-u1416.jpg" crc="347308420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u379-4.png" crc="135298570" ref="index"/>
+    <file name="u383-4.png" crc="3947817569" ref="index"/>
+    <file name="icono de menu de celular.png" crc="271911825" seo="true" ref="index:carta:ubicacion:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="carta" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="diseño sin título (3)-crop-u1459.jpg" crc="4163696126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu horizontal restaurante comida rapida manchas llamativo rosa amarillo.jpg" crc="470677586" seo="true" ref="carta">
+      <caption webpage="carta" alt=""/>
+    </file>
+    <file name="menu horizontal restaurante comida rapida manchas llamativo rosa amarillo281x198.jpg" crc="3778691149" seo="true" ref="carta">
+      <caption webpage="carta" alt=""/>
+    </file>
+    <file name="u164.png" crc="54591938" ref="index:carta:ubicacion:contacto"/>
+    <file name="u164-a.png" crc="3967568666" ref="index:carta:ubicacion:contacto"/>
+    <file name="u487.png" crc="78941986" ref="index:carta:ubicacion:contacto"/>
+    <file name="u487-a.png" crc="4024909009" ref="index:carta:ubicacion:contacto"/>
+    <file name="u707.png" crc="471154890" ref="index:carta:ubicacion:contacto"/>
+    <file name="u707-a.png" crc="156553880" ref="index:carta:ubicacion:contacto"/>
+    <file name="u993.png" crc="387945668" ref="index:carta:ubicacion:contacto"/>
+    <file name="u993-a.png" crc="196996892" ref="index:carta:ubicacion:contacto"/>
+    <file name="u5619-6.png" crc="3903282806" ref="index"/>
+    <file name="anticuchos 2-crop-u5217.jpg" crc="187683606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hamburguesa.png" crc="424142326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mollejitas 1.jpg" crc="3798886998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rachi de panza.jpg" crc="115557003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5209-4.png" crc="4175418095" ref="index"/>
+    <file name="u5512-4.png" crc="523222593" ref="index"/>
+    <file name="u5549-4.png" crc="99609369" ref="index"/>
+    <file name="u5597-4.png" crc="92266741" ref="index"/>
+    <file name="u5938-4.png" crc="13384688" ref="index"/>
+    <file name="u5944-4.png" crc="38533937" ref="index"/>
+    <file name="u5737-6.png" crc="211083017" ref="index"/>
+    <file name="anticuchos 2-crop-u5800.jpg" crc="3919794741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hamburguesa-crop-u5798.png" crc="282553882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mollejitas 1-crop-u5794.jpg" crc="4262074158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rachi de panza215x127.jpg" crc="3924516510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5789-4.png" crc="4146879344" ref="index"/>
+    <file name="u5791-4.png" crc="4090472095" ref="index"/>
+    <file name="u5790-4.png" crc="3808253629" ref="index"/>
+    <file name="u5788-4.png" crc="447511351" ref="index"/>
+    <file name="u6079-4.png" crc="526404996" ref="ubicacion"/>
+    <file name="u1923-4.png" crc="3951651483" ref="ubicacion"/>
+    <file name="u6073-4.png" crc="4139025324" ref="contacto"/>
+    <file name="u6073-42.png" crc="252804502" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="34639653" seo="true" mt="1671511634719" redirect="true"/>
+  <file name="carta.html" crc="259030661" seo="true" mt="1671511634719" redirect="true"/>
+  <file name="ubicacion.html" crc="99672057" seo="true" mt="1671511697411" redirect="true"/>
+  <file name="contacto.html" crc="186217472" seo="true" mt="1671513286570" redirect="true"/>
+</manifest>
